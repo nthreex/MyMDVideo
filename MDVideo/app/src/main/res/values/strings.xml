@@ -1,0 +1,50 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">MDVideo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">设置</string>
+
+    <!--导航菜单-->
+    <string name="menu_video_local">本地视频</string>
+    <string name="menu_video_history">播放历史</string>
+    <string name="menu_video_display">显示样式</string>
+    <string name="menu_video_setting">设置</string>
+    <string name="menu_video_share">分享给好友</string>
+    <string name="menu_video_send">意见与反馈</string>
+    <string name="menu_title">一款播放器</string>
+    <string name="menu_desc">就是一款播放器啊~</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--在线播放器-->
+    <string name="player_scale_4_3">4:3</string>
+    <string name="player_scale_16_9">16:9</string>
+    <string name="player_scale_default">默认</string>
+    <string name="player_Rotation">旋转</string>
+    <string name="player_exit">退出</string>
+
+    <!--playerDemo-->
+    <string name="enable_background_audio">Play in background</string>
+    <string name="video">Video</string>
+    <string name="audio">Audio</string>
+    <string name="text">Text</string>
+    <string name="logging">Logging</string>
+    <string name="logging_normal">Normal</string>
+    <string name="logging_verbose">Verbose</string>
+    <string name="retry">Retry</string>
+    <string name="off">[off]</string>
+    <string name="error_drm_not_supported">Protected content not supported on API levels below 18</string>
+    <string name="error_drm_unsupported_scheme">This device does not support the required DRM scheme</string>
+    <string name="error_drm_unknown">An unknown DRM error occurred</string>
+    <string name="error_no_decoder">This device does not provide a decoder for <xliff:g id="mime_type">%1$s</xliff:g></string>
+    <string name="error_no_secure_decoder">This device does not provide a secure decoder for <xliff:g id="mime_type">%1$s</xliff:g></string>
+    <string name="error_querying_decoders">Unable to query device decoders</string>
+    <string name="error_instantiating_decoder">Unable to instantiate decoder <xliff:g id="decoder_name">%1$s</xliff:g></string>
+    <string name="storage_permission_denied">Permission to access storage was denied</string>
+
+</resources>

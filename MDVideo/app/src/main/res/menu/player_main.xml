@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/player_scale_4_3"
+        android:title="@string/player_scale_4_3"/>
+    <item
+        android:id="@+id/player_scale_16_9"
+        android:title="@string/player_scale_16_9"/>
+    <item
+        android:id="@+id/player_scale_default"
+        android:title="@string/player_scale_default"/>
+    <item
+        android:id="@+id/player_Rotation"
+        android:icon="@drawable/ic_rotate_right"
+        android:title="@string/player_Rotation"
+        app:showAsAction="always"/>
+</menu>
